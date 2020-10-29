@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1603992256 source:c:\users\user\desktop\c ++\labirynt\main.cpp
+	<iostream>
+	"Labirynt.h"
+
+1603992224 source:c:\users\user\desktop\c ++\labirynt\src\labirynt.cpp
+	"Labirynt.h"
+	"Punkt.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<cstdlib>
+	<windows.h>
+
+1603991473 c:\users\user\desktop\c ++\labirynt\include\labirynt.h
+	"Punkt.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<vector>
+	<cstdlib>
+	<windows.h>
+
+1603916413 source:c:\users\user\desktop\c ++\labirynt\src\punkt.cpp
+	"Punkt.h"
+
+1603916464 c:\users\user\desktop\c ++\labirynt\include\punkt.h
+
